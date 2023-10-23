@@ -42,6 +42,26 @@ header h2 {
     font-size: 1.2em;
     margin-bottom: 20px;
 }
+header h3 {
+    font-weight: 300;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+header h4 {
+    font-weight: 300;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+header h5 {
+    font-weight: 300;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+header h6 {
+    font-weight: 300;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
 
 .social-media-buttons {
     position: absolute;
@@ -304,6 +324,22 @@ footer a:hover {
         font-size: 1em;
         margin-bottom: 16px;
     }
+    header h3 {
+        font-size: 1em;
+        margin-bottom: 16px;
+    }
+    header h4 {
+        font-size: 1em;
+        margin-bottom: 16px;
+    }
+    header h5 {
+        font-size: 1em;
+        margin-bottom: 16px;
+    }
+    header h6 {
+        font-size: 1em;
+        margin-bottom: 16px;
+    }
     #minPrice, #maxPrice {
         width: 100%; 
         padding: 8px; 
@@ -328,6 +364,23 @@ footer a:hover {
         font-size: 0.9em;
         margin-bottom: 14px;
     }
+    header h3 {
+        font-size: 0.9em;
+        margin-bottom: 14px;
+    }
+    header h4 {
+        font-size: 0.9em;
+        margin-bottom: 14px;
+    }
+    header h5 {
+        font-size: 0.9em;
+        margin-bottom: 14px;
+    }
+    header h6 {
+        font-size: 0.9em;
+        margin-bottom: 14px;
+    }
+
 }
 
 /* Add some subtle hover animations for interactive elements */

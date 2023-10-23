@@ -940,6 +940,30 @@
           "brand": ["Supreme"]
         },
         "bestOf": false
+      },
+      {
+        "title": "Burberry Cashmere Scarf",
+        "image": "images/burbScarf.webp",
+        "price": 56.46,
+        "link": "https://pandabuy.allapp.link/ckrbo4ogpf6ir7nidv40",
+        "description": "REAL HIGH QUALITY CASHMERE!",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Burberry"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Louis Vuitton White Belt",
+        "image": "images/LVBelt.jpg",
+        "price": 29.72,
+        "link": "https://pandabuy.allapp.link/ckrbrhp0b4mkak8ljvj0",
+        "description": "Great quality",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Louis Vuitton"]
+        },
+        "bestOf": false
       }
 
 

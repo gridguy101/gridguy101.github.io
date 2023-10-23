@@ -28,7 +28,7 @@ fetch('products.json')
         
                 // Price
                 const price = document.createElement('p');
-                price.textContent = `$${product.price}`;
+                price.textContent = `$${parseFloat(product.price).toFixed(2)}`;
                 link.appendChild(price);
         
                 // Description (if you want to display it too)
