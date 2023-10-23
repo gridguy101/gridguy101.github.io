@@ -1,0 +1,948 @@
+[
+    {
+        "title": "Nike Dunks (VT Batch)",
+        "image": "images/VTBatch.jpg",
+        "price": 28.36,
+        "link": "https://pandabuy.allapp.link/ckj09c1rogtnkdb8r5pg",
+        "description": "*29 styles*. Best budget Dunk batch, especially for simple Dunks.",
+        "tags": {
+            "type": ["Shoes"],
+            "brand": ["Nike"]
+        },
+        "bestOf": true
+    },
+    {
+        "title": "Nike Dunks (M Batch)",
+        "image": "images/MBatch.jpg",
+        "price": 47.76,
+        "link": "https://pandabuy.allapp.link/ckj0bg8gpf6sniefb6q0",
+        "description": "*40 styles*. Best overall Dunk & Dunk sb batch.",
+        "tags": {
+            "type": ["Shoes"],
+            "brand": ["Nike"]
+        },
+        "bestOf": true
+    },
+    {
+        "title": "Yuto Horigome SB Dunks",
+        "image": "images/YutoDunk.png",
+        "price": 53.73,
+        "link": "https://pandabuy.allapp.link/ckj0frogpf6sniefb78g",
+        "description": "",
+        "tags": {
+            "type": ["Shoes"],
+            "brand": ["Nike"]
+        },
+        "bestOf": false
+    },
+    {
+        "title": "Nike SB Dunks (GT Batch)",
+        "image": "images/GTBatch.jpg",
+        "price": 35.82,
+        "link": "https://pandabuy.allapp.link/ckj0ll8gpf6sniefb7v0",
+        "description": "*31 styles*. Great alternative to M Batch, AMAZING LOBSTERS.",
+        "tags": {
+            "type": ["Shoes"],
+            "brand": ["Nike"]
+        },
+        "bestOf": false
+    },
+    {
+        "title": "Air Force 1s",
+        "image": "images/AF1.jpg",
+        "price": 19.40,
+        "link": "https://pandabuy.allapp.link/ckj0m91rogtnkdb8r79g",
+        "description": "*22 styles.*",
+        "tags": {
+            "type": ["Shoes"],
+            "brand": ["Nike"]
+        },
+        "bestOf": false
+    },
+    {
+        "title": "Utopia, Supreme, etc. Air Force 1s",
+        "image": "images/AF1S.jpg",
+        "price": 20.75,
+        "link": "https://pandabuy.allapp.link/ckj0o20gpf6sniefb8a0",
+        "description": "*17 styles.* Has Utopia, CLB, Tiffany & Co, Supreme, + more.",
+        "tags": {
+            "type": ["Shoes"],
+            "brand": ["Nike", "Tiffany & Co", "Supreme"]
+        },
+        "bestOf": false
+    },
+    {
+        "title": "Jordan 4 (PK 4.0 Batch)",
+        "image": "images/PK4.jpg",
+        "price": 64.0,
+        "link": "https://pandabuy.allapp.link/ckkkp0ogpf6sniefioig",
+        "description": "*21 Styles.* Widely regarded as best J4 batch.",
+        "tags": {
+          "type": [
+            "Shoes"
+          ],
+          "brand": ["Nike", "Jordan"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Jordan 4 (GX 2.0 Batch)",
+        "image": "images/GX2.jpg",
+        "price": 61.10,
+        "link": "https://pandabuy.allapp.link/ckqs3v90b4mvau7prqpg",
+        "description": "Only *5 styles*, but SUPER accurate",
+        "tags": {
+          "type": [
+            "Shoes"
+          ],
+          "brand": ["Nike", "Jordan"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Jordan 1/4/6/11 (LJR Batch)",
+        "image": "images/LJR.jpg",
+        "price": 70.0,
+        "link": "https://pandabuy.allapp.link/ckkkoohrogtnkdb92ph0",
+        "description": "*Literally endless styles.* Best overall Jordan 1 + Jordan x Off-White batch!",
+        "tags": {
+          "type": [
+            "Shoes"
+          ],
+          "brand": ["Nike", "Jordan", "Off-White"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Nike Socks",
+        "image": "images/NikeSocks.jpg",
+        "price": 0.58,
+        "link": "https://pandabuy.allapp.link/ckkkt6nm8ngom0fkra40",
+        "description": "*20 Colors.* A bit thin but for the price so worth it.",
+        "tags": {
+          "type": ["Socks"],
+          "brand": ["Nike"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Yeezy Slide (Budget)",
+        "image": "images/8yeezy.jpg",
+        "price": 8.79,
+        "link": "https://pandabuy.allapp.link/ckkl1ofm8ngom0fkrb30",
+        "description": "*8 colors.* Still insane quality for the price.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Yeezy", "Adidas"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Yeezy Slide (LW Batch)",
+        "image": "images/LWyeezy.jpg",
+        "price": 16.39,
+        "link": "https://pandabuy.allapp.link/ckkl1ofm8ngom0fkrb30",
+        "description": "*20 colors.* Best yeezy slide batch.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Yeezy", "Adidas"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Supreme Baseball hat",
+        "image": "images/SupremeHat.jpeg",
+        "price": 8.78,
+        "link": "https://pandabuy.allapp.link/ckmmnovm8ngihn2p20sg",
+        "description": "*4 colors.* Suede.",
+        "tags": {
+          "type": ["Hat"],
+          "brand": ["Supreme"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Vintage Nike Crewneck Sweater",
+        "image": "images/NikeSweater.jpeg",
+        "price": 10.12,
+        "link": "https://pandabuy.allapp.link/ckmmtivm8ngihn2p21q0",
+        "description": "*11 colors.* Super comfy.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Nike"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Prada Glasses",
+        "image": "images/PradaGlasses.jpg",
+        "price": 3.27,
+        "link": "https://pandabuy.allapp.link/ckmmughrogtl5hi2nut0",
+        "description": "*6 styles*. Insane quality for price, logo might rub off after a while.",
+        "tags": {
+          "type": ["Glasses"],
+          "brand": ["Prada"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Adidas Campus",
+        "image": "images/Campus.jpg",
+        "price": 23.81,
+        "link": "https://pandabuy.allapp.link/ckmoafhrogtl5hi2o5p0",
+        "description": "*34 styles*.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Adidas"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Calvin Klein Underwear",
+        "image": "images/Klein.jpg",
+        "price": 1.34,
+        "link": "https://pandabuy.allapp.link/ckmobtprogtl5hi2o5vg",
+        "description": "*5 colors*. So cheap, why are you not buying this.",
+        "tags": {
+          "type": ["Underwear"],
+          "brand": ["Calvin Klein"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Yeezy Foam Runners",
+        "image": "images/Foams.png",
+        "price": 20.83,
+        "link": "https://pandabuy.allapp.link/ckmogbp0b4mvau7pema0",
+        "description": "*19 styles*. Best batch.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Yeezy", "Adidas"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Goyard Wallet",
+        "image": "images/GoyardWallet.jpg",
+        "price": 5.21,
+        "link": "https://pandabuy.allapp.link/ckmohdhrogtl5hi2o760",
+        "description": "*18 styles*. Quality & lightweight, great batch add-on.",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Goyard"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Kaws Keychain",
+        "image": "images/KawsKey.png",
+        "price": 0.42,
+        "link": "https://pandabuy.allapp.link/ckmoj1p0b4mvau7pemug",
+        "description": "*17 styles*. 42 cents. What are you doing not having this bro.",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Kaws"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Small Swoosh Nike Hoodie",
+        "image": "images/Smallswoosh.jpg",
+        "price": 11.61,
+        "link": "https://pandabuy.allapp.link/ckmpdpnm8ngihn2p2f30",
+        "description": "*14 styles*. Thick & Comfy.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Nike"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Vivienne Westwood Pearl Necklace",
+        "image": "images/WestwoodNecklace.png",
+        "price": 3.87,
+        "link": "https://pandabuy.allapp.link/ckmpgk1rogtl5hi2odfg",
+        "description": "Fire for the price.",
+        "tags": {
+          "type": ["Jewelry"],
+          "brand": ["Vivienne Westwood"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Essentials T-Shirt",
+        "image": "images/EssentialsTee.jpg",
+        "price": 8.78,
+        "link": "https://pandabuy.allapp.link/ckmphchrogtl5hi2odm0",
+        "description": "*9 styles*. ISNANE quality.",
+        "tags": {
+          "type": ["Shirts"],
+          "brand": ["Fear of God"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Takashi Murakami Flower Pillow",
+        "image": "images/TakashiPillow.jpg",
+        "price": 8.63,
+        "link": "https://pandabuy.allapp.link/ckmpja1rogtl5hi2oe40",
+        "description": "*30 styles*. Cozy & soft.",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Takashi Murakami"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Supreme Shoulder Bag",
+        "image": "images/SupremeBag.png",
+        "price": 5.65,
+        "link": "https://pandabuy.allapp.link/ckmpk8vm8ngihn2p2gc0",
+        "description": "*4 styles*. So good for price.",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Supreme"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Essentials x Nike Hoodie",
+        "image": "images/EssentialsHoodie.png",
+        "price": 11.28,
+        "link": "https://pandabuy.allapp.link/ckmpm3progtl5hi2oeng",
+        "description": "*10 colors*. Classic.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Fear of God"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Nike x Supreme Jacket",
+        "image": "images/NikexSupremeJacket.jpg",
+        "price": 44.64,
+        "link": "https://pandabuy.allapp.link/ckmprsprogtl5hi2ofn0",
+        "description": "Top tier quality, actually good jacket.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Nike", "Supreme"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Nike Kobe Grinches",
+        "image": "images/Kobe.png",
+        "price": 46.13,
+        "link": "https://pandabuy.allapp.link/ckmq3nprogtl5hi2oh4g",
+        "description": "Good for hooping",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Nike x Off White Dunks",
+        "image": "images/NikexOffWhite.jpg",
+        "price": 32.74,
+        "link": "https://pandabuy.allapp.link/ckmqbk7m8ngihn2p2kjg",
+        "description": "*28 Colors*. Great quality.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike", "Off-White"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Rick Owens DRKSHDW High",
+        "image": "images/RICKDRK.jpg",
+        "price": 62.20,
+        "link": "https://pandabuy.allapp.link/ckngd51rogtl5hi2qmi0",
+        "description": "BEST BATCH!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Rick Owens"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Lightning McQueen Crocs",
+        "image": "images/Mcqueen.png",
+        "price": 83.18,
+        "link": "https://pandabuy.allapp.link/cknge3h0b4mvau7ph7fg",
+        "description": "Lowk outrageous price but mfs want it so...",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Crocs"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Stone Island Down Jacket ",
+        "image": "images/StoneyDownJacket.png",
+        "price": 81.85,
+        "link": "https://pandabuy.allapp.link/cknjhr90b4mvau7phdhg",
+        "description": "SO COMFY. Wonderful quality.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Stone Island"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Stone Island Down Jacket ",
+        "image": "images/StoneyVest.png",
+        "price": 62.50,
+        "link": "https://pandabuy.allapp.link/cknjmdprogtl5hi2qsug",
+        "description": " *5 Colors*. SO COMFY. Wonderful quality.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Stone Island"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Arc'teryx Alpha SV Jacket",
+        "image": "images/AlphaSV.jpeg",
+        "price": 62.50,
+        "link": "https://pandabuy.allapp.link/cknjor1rogtl5hi2qt40",
+        "description": " *5 Colors*.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Arc'teryx"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Arc'teryx Beta LT Jacket",
+        "image": "images/BetaLT.jpeg",
+        "price": 56.55,
+        "link": "https://pandabuy.allapp.link/cknjsq10b4mvau7phdsg",
+        "description": " *5 Colors*.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Arc'teryx"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Arc'teryx x Palace Jacket",
+        "image": "images/ArcPalace.png",
+        "price": 86.31,
+        "link": "https://pandabuy.allapp.link/cknju0nm8ngihn2p4vig",
+        "description": " *2 Colors*.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Arc'teryx"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Arc'teryx x Palace Shirt",
+        "image": "images/ArcPalaceShirt.jpeg",
+        "price": 17.56,
+        "link": "https://pandabuy.allapp.link/cknju0nm8ngihn2p4vig",
+        "description": " *3 Colors*.",
+        "tags": {
+          "type": ["Shirts"],
+          "brand": ["Arc'teryx", "Palace"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Arc'teryx x Jil Sander Jacket",
+        "image": "images/ArcJil.jpeg",
+        "price": 56.55,
+        "link": "https://pandabuy.allapp.link/cknk00vm8ngihn2p4vl0",
+        "description": " *2 Colors*.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Arc'teryx", "Jil Sander"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Stussy Printed Jacket",
+        "image": "images/StussyShell.jpg",
+        "price": 39.88,
+        "link": "https://pandabuy.allapp.link/cknk0mprogtl5hi2qtg0",
+        "description": "Kinda light, like a shell",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Stussy"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "ERL Jacket",
+        "image": "images/ERL.png",
+        "price": 75.74,
+        "link": "https://pandabuy.allapp.link/cknk20fm8ngihn2p4vog",
+        "description": "Crazy but u do u lmaoo",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["ERL"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "'Crazy' Jacket",
+        "image": "images/CrazyJacket.jpg",
+        "price": 75.74,
+        "link": "https://pandabuy.allapp.link/cko26i7m8ngihn2p6c0g",
+        "description": "Crazy but u do u lmaoo",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["ERL"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Vetements Jacket",
+        "image": "images/VetJacket.png",
+        "price": 208.18,
+        "link": "https://pandabuy.allapp.link/cko29rprogtl5hi2sch0",
+        "description": "Expensive but beautiful piece",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Vetements"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Vetements Bomber",
+        "image": "images/VetBomber.png",
+        "price": 98.07,
+        "link": "https://pandabuy.allapp.link/cko2beh0b4mvau7piqsg",
+        "description": "WONDERFUL quality, runs a bit big.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Vetements"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Balenciaga x Yeezy Denim Jacket",
+        "image": "images/Yeezy.webp",
+        "price": 265.82,
+        "link": "https://pandabuy.allapp.link/ckolicprogtl5hi2u2h0",
+        "description": "No ratings, check QCs",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Balenciaga", "Yeezy"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "GOLF WANG & Golf le Fleur Varsity Jackets",
+        "image": "images/GOLFJacket.jpg",
+        "price": 133.58,
+        "link": "https://pandabuy.allapp.link/ckollnprogtl5hi2u34g",
+        "description": "*3 Colors*, Both GOLF companies.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["GOLF WANG/Golf Le Fleur"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Palm Angels Varsity Jacket",
+        "image": "images/PalmAngelsVarsity.jpg",
+        "price": 17.09,
+        "link": "https://pandabuy.allapp.link/ckom0l90b4mvau7pkjo0",
+        "description": "*3 Colors*, QCs look soo fire, idek how they do this.",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Palm Angels"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Aime Leon Dore x New Balance Varsity Jacket",
+        "image": "images/ALDVarsity.webp",
+        "price": 118.87,
+        "link": "https://pandabuy.allapp.link/ckom1910b4mvau7pkjrg",
+        "description": "Great quality",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Aime Leon Dore", "New Balance"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Essentials Fleece",
+        "image": "images/EssentialsFleece.jpg",
+        "price": 11.62,
+        "link": "https://pandabuy.allapp.link/ckom3qprogtl5hi2u5a0",
+        "description": "Very comfy :)",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Fear of God"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Rick Owens Puffer Jacket",
+        "image": "images/RickBuffer.jpg",
+        "price": 113.12,
+        "link": "https://pandabuy.allapp.link/ckom5410b4mvau7pkkc0",
+        "description": "Not too many sizes but its cool",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Rick Owens"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Rick Owens x Moncler Puffer Jacket",
+        "image": "images/RickMon.jpg",
+        "price": 169.24,
+        "link": "https://pandabuy.allapp.link/ckom5n7m8ngihn2p85f0",
+        "description": "Not too many sizes but its cool",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Rick Owens", "Moncler"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Rick Owens Full Zip Puffer Jacket",
+        "image": "images/RickFullZip.png",
+        "price": 103.86,
+        "link": "https://pandabuy.allapp.link/ckpce390b4mvau7pmptg",
+        "description": "Top Tier, no sleeves btw",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Rick Owens"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Rick Owens Fleece Puffer Jacket",
+        "image": "images/RickFleece.jpg",
+        "price": 280.68,
+        "link": "https://pandabuy.allapp.link/ckpcf1fm8ngihn2paa9g",
+        "description": "Trusted vendor",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Rick Owens"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Rick Owens Embroidered Jacket",
+        "image": "images/RickEmb.jpg",
+        "price": 178.16,
+        "link": "https://pandabuy.allapp.link/ckpcgp7m8ngihn2paaig",
+        "description": "Trusted vendor",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Rick Owens"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Rick Owens Padded Shoulder Jacket",
+        "image": "images/RickShoulder.jpg",
+        "price": 294.21,
+        "link": "https://pandabuy.allapp.link/ckpche1rogtl5hi30ang",
+        "description": "Trusted vendor",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Rick Owens"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Travis Scott  Jordan Low (FK Batch)",
+        "image": "images/TravLow.png",
+        "price": 50.52,
+        "link": "https://pandabuy.allapp.link/ckqs147m8ngihn2pfa0g",
+        "description": "*13 Styles*. BEST TRAV LOW BATCH!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike", "Jordan"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Travis Scott  Jordan Low + High (PK Batch)",
+        "image": "images/TravHigh.jpg",
+        "price": 65.38,
+        "link": "https://pandabuy.allapp.link/ckqs241rogtl5hi35e1g",
+        "description": " *13 Styles*. ALT BEST BATCH! Also has a few regular Jordans",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike", "Jordan"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Jordan 4 (GX 1 Batch)",
+        "image": "images/GXj4.jpg",
+        "price": 66.86,
+        "link": "https://pandabuy.allapp.link/ckqs36hrogtl5hi35e40",
+        "description": "*27 Styles*. ALSO BEST J4 BATCH! Worth the price.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike", "Jordan"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Jordan 1 (KX Batch)",
+        "image": "images/J1Budget.png",
+        "price": 37.00,
+        "link": "https://pandabuy.allapp.link/ckqs7mh0b4mvau7prqtg",
+        "description": "*28 Styles*. Best J1 budget batch!.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike", "Jordan"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Nike SB Dunks (AY Batch)",
+        "image": "images/AYDunk.jpg",
+        "price": 34.03,
+        "link": "https://pandabuy.allapp.link/ckqs8n1rogtl5hi35eb0",
+        "description": "*31 Styles*. A bunch of rare dunk colors, super high quality.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Gucci Aces",
+        "image": "images/GucciAce.jpg",
+        "price": 52.01,
+        "link": "https://pandabuy.allapp.link/ckqs9kprogtl5hi35ecg",
+        "description": "*10 Styles*. Best batch.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Gucci"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Jordan 3 (Small GX Batch)",
+        "image": "images/GX3.jpg",
+        "price": 44.43,
+        "link": "https://pandabuy.allapp.link/ckqsag1rogtl5hi35ef0",
+        "description": "*10 Styles*. Best batch.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Gucci"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Travis Scott  Jordan Low (AX Batch)",
+        "image": "images/BudgetTrav.jpg",
+        "price": 25.26,
+        "link": "https://pandabuy.allapp.link/ckqsdnnm8ngihn2pfaj0",
+        "description": "*5 Styles*. Best budget batch, crazy value!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike", "Jordan"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Yeezy 350s (K5 Batch)",
+        "image": "images/Yeezy350.jpg",
+        "price": 26.60,
+        "link": "https://pandabuy.allapp.link/ckqsf5hrogtl5hi35eog",
+        "description": "*19 Styles*. Best batch!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Yeezy", "Adidas"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Yeezy 350 V1 Turtle Doves",
+        "image": "images/YeezyDoves.jpg",
+        "price": 44.58,
+        "link": "https://pandabuy.allapp.link/ckqsg910b4mvau7prr7g",
+        "description": "*2 Styles*. Best batch!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Yeezy", "Adidas"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Jordan 4 (KX Batch)",
+        "image": "images/KXj4.jpg",
+        "price": 38.63,
+        "link": "https://pandabuy.allapp.link/ckr8l7h0b4mkak8ljgdg",
+        "description": "*26 Styles*. Best J4 budget batch, crazy value!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Nike", "Jordan"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Yeezy 350 (LW Batch)",
+        "image": "images/YeezyLW.jpg",
+        "price": 31.20,
+        "link": "https://pandabuy.allapp.link/ckr8m5fm8ngtsr1amsc0",
+        "description": "*17 Styles*. Most popualar yeezy batch, arguably BEST!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Yeezy", "Adidas"]
+        },
+        "bestOf": true
+      },
+      {
+        "title": "Mihara Yasuhiro Shoes",
+        "image": "images/MMY.jpg",
+        "price": 35.51,
+        "link": "https://pandabuy.allapp.link/ckr8n4p0b4mkak8ljgm0",
+        "description": "*16 Styles*. Def best batch!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Mihara Yasuhiro"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Off White Air Force Ones",
+        "image": "images/OWAF1.jpg",
+        "price": 44.43,
+        "link": "https://pandabuy.allapp.link/ckr8s690b4mkak8ljhhg",
+        "description": "*22 Styles*. Best batch!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Off-White", "Nike"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Bapesta (AX Batch)",
+        "image": "images/BapeAX.jpg",
+        "price": 56.46,
+        "link": "https://pandabuy.allapp.link/ckr9j2p0b4mkak8ljl3g",
+        "description": "*12 Styles*. Best budget batch, such good value.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Bape"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Syna Sweat Suit",
+        "image": "images/Synasuit.jpg",
+        "price": 24.96,
+        "link": "https://pandabuy.allapp.link/ckr9l4vm8ngtsr1an1jg",
+        "description": "*5 Styles*. So good. HOODIE AND PANTS SOLD SEPERATELY",
+        "tags": {
+          "type": ["Outerwear", "Pants", "Sweatsuit"],
+          "brand": ["Syna World"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "The North Face Nuptse Jacket",
+        "image": "images/TNFJacket.jpg",
+        "price": 56.17,
+        "link": "https://pandabuy.allapp.link/ckr9mg0gpf6ir7nidlvg",
+        "description": "*15 Styles*. Comfy and quality!",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["The North Face"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Balenciaga Phantoms",
+        "image": "images/Phantoms.jpg",
+        "price": 50.52,
+        "link": "https://pandabuy.allapp.link/ckr9nvvm8ngtsr1an1vg",
+        "description": "*28 Styles*. Kinda silly looking but you do you!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Balenciaga"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Broken Planet Dark Hours Hoodie",
+        "image": "images/BrokenPlanetHoodie.webp",
+        "price": 31.05,
+        "link": "https://pandabuy.allapp.link/ckr9r58gpf6ir7nidmm0",
+        "description": "Great quality, thick",
+        "tags": {
+          "type": ["Outerwear"],
+          "brand": ["Broken Planet"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Balenciaga Rock T-shirt",
+        "image": "images/BalenciShirt.jpg",
+        "price": 44.58,
+        "link": "https://pandabuy.allapp.link/ckr9stggpf6ir7nidmqg",
+        "description": "Lowk expensive but good shirt",
+        "tags": {
+          "type": ["Shirts"],
+          "brand": ["Balenciaga"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Hellstar Long Sleeve Shirt",
+        "image": "images/HellstarShirt.jpg",
+        "price": 17.53,
+        "link": "https://pandabuy.allapp.link/ckra897m8ngtsr1an4dg",
+        "description": "Good shirt good price good purchase",
+        "tags": {
+          "type": ["Shirts"],
+          "brand": ["Hellstar"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Broken Planet T-Shirt",
+        "image": "images/IntoTheShirt.jpg",
+        "price": 14.56,
+        "link": "https://pandabuy.allapp.link/ckrad98gpf6ir7nidp6g",
+        "description": "Good shirt good price good purchase",
+        "tags": {
+          "type": ["Shirts"],
+          "brand": ["Broken Planet"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Rick Owens DRKSHDW Low",
+        "image": "images/RickLows.jpg",
+        "price": 57.65,
+        "link": "https://pandabuy.allapp.link/ckrajqggpf6ir7nidq80",
+        "description": "*7 styles/materials*. Best batch!",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Rick Owens"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Supreme Tape",
+        "image": "images/Tape.jpg",
+        "price": 7.28,
+        "link": "https://pandabuy.allapp.link/ckralbogpf6ir7nidqe0",
+        "description": "Idk bruh its tape lmao",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Supreme"]
+        },
+        "bestOf": false
+      }
+
+
+
+]
+

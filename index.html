@@ -1,17 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>My Website</title>
-    <link rel="stylesheet" href="./style.css">
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
-  </head>
-  <body>
+    <title>Repedia- The Ultimate Pandabuy Directory</title>
+    <meta name="description" content="Repedia is a platform to find the best products on Pandabuy great search, sort and filter capabilities.">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+
+    <header>
+        
+        <h1>Repedia</h1>
+        <h2>The Ultimate Pandabuy Directory</h2>
+        <a href="https://pandabuy.allapp.link/ckhct71rogtvoj73ust0" class="signup-btn">Sign Up for Pandabuy</a> <!-- This is the sign up button to navigate to the main ecommerce site. -->
+        <div class="social-media-buttons">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+            <a href="https://discord.gg/5ux3EWjG9H" target="_blank" class="social-media-btn">
+                <i class="fab fa-discord"></i>
+            </a>
+            <a href="https://www.tiktok.com/@repedia.xyz" target="_blank" class="social-media-btn">
+                <i class="fab fa-tiktok"></i> <!-- You might need a different class if you use another icon library -->
+            </a>
+        </div>
+    </header>
+
     <main>
-        <h1>Welcome to My Website</h1>  
+        <section id="search-and-filters">
+            <input type="text" id="search" placeholder="Search products...">
+
+            <div id="filters">
+                <div id="tagFilters">
+                    <select id="typeFilter" class="dropdown">
+                        <option value="default" selected>All Product Types</option>
+                        <!-- Product Types will be dynamically added here -->
+                    </select>
+                    <select id="brandFilter" class="dropdown">
+                        <option value="default" selected>All Brands</option>
+                        <!-- Product Brands will be dynamically added here -->
+                    </select>
+                </div>
+
+                <div id="priceFilter">
+                    <input type="text" id="minPrice" placeholder="Min Price">
+                    <span> - </span>
+                    <input type="text" id="maxPrice" placeholder="Max Price">
+                </div>
+
+                <div id="sortOptions">
+                    <select id="sortType" class="dropdown">
+                        <option value="default" disabled selected>Sort by...</option> <!-- Added a placeholder to indicate the purpose of the dropdown -->
+                        <option value="az">A-Z</option>
+                        <option value="za">Z-A</option>
+                        <option value="low-high">Price: Low to High</option>
+                        <option value="high-low">Price: High to Low</option>
+                    </select>
+                </div>
+            </div>
+
+            <p id="count"></p>
+            <div id="results"></div>
+        </section>
     </main>
-	<script src="index.js"></script>
-  </body>
+
+    <footer>
+        <p>© 2023 Repedia operates as an independent platform and does not have any affiliation or endorsement from the Pandabuy.com website or brand. The primary purpose of our website is to aid users in discovering products listed on the Pandabuy website. Repedia is strictly for private users and does not operate as a marketplace. The information available on Repedia is not to be interpreted as advice of any form. We do not advocate or suggest buying any products. This platform does not participate in selling any items. All buying decisions are made at the discretion and risk of the user. Products and their names are displayed solely for educational and identification objectives. Affiliate Disclaimer: We wish to inform you that our website includes affiliate links, which may earn us a minor commission for qualifying purchases made through these links. We do not receive commissions from the sale of individual products, only from the parcel shipping cost. Hence, we are not accountable for your purchases. We have no control over the content of external websites, and we do not accept responsibility for it. The commissions we earn assist in maintaining and developing our website, without incurring any extra cost on your part. Your support is greatly valued. </p>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script>document.querySelectorAll('a').forEach(link => {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');  // for security reasons
+    });</script>
+
+</body>
 </html>
+

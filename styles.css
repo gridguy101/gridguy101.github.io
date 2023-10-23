@@ -1,0 +1,348 @@
+/* Importing new font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Basic Resets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FAFAFA;
+    color: #333;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column; /* This ensures elements are stacked vertically */
+    min-height: 100vh;  /* This makes sure the body occupies full viewport height */
+    width: 100%;
+    overflow-x: hidden;
+    justify-content: space-between; /* This ensures space between content and footer */
+}
+
+header {
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #FFF;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    z-index: 10;
+    position: sticky;
+    top: 0;
+}
+
+header h1 {
+    font-weight: 700;
+    font-size: 1.8em;
+    margin-bottom: 8px;
+}
+
+header h2 {
+    font-weight: 300;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.social-media-buttons {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
+
+.social-media-btn {
+    display: inline-block;
+
+    background-color: white; /* or any color you prefer */
+    border-radius: 50%; /* makes the buttons circular */
+    width: 30px; /* or the size you prefer */
+    height: 30px;
+    transform: scale(1.5);
+    text-align: center;
+    line-height: 30px; /* vertically center the icons */
+    margin-left: 20px; /* space between the buttons */
+}
+
+.social-media-btn i {
+    color: black; /* or any color you prefer for the icons */
+    font-size: 16px; /* or the size you prefer */
+}
+
+
+.signup-btn {
+    background-color: #000;
+    color: #FFF;
+    padding: 8px 16px;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    box-shadow: 0 0 20px rgba(112, 112, 112, 0.8);
+}
+
+.signup-btn:hover {
+    background-color: #2c2c2c;
+    transform: scale(1.05);
+    box-shadow: 0 0 30px rgba(112, 112, 112, 0.95);
+}
+
+main {
+    width: 90%;
+    max-width: 1100px;
+    margin: 40px auto;
+    flex: 1 0 auto;
+}
+
+b {
+    font-weight: bold;
+}
+
+#search-and-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center; /* This will center the children elements */
+    align-items: center; /* Vertically align */
+    margin-bottom: 30px;
+}
+
+#search {
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #DDD;
+    outline: none;
+    transition: border-color 0.3s ease;
+    max-height: 45px; 
+    width: 100%; 
+    margin: 0 auto; /* Center the element */
+    font-size: 16px
+}
+
+
+
+#filters {
+ /*   flex: 2; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center; /* Center the children elements */
+    width: 100%;
+}
+
+#search:focus {
+    border-color: #000;
+}
+
+.dropdown {
+    flex: 1;
+    padding: 10px;
+    padding-right: 30px;
+    border-radius: 20px;
+    border: 1px solid #DDD;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    appearance: none;
+    background-color: #FFF;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="%23333" viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5H7z"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 0.5rem center;
+    background-size: 1.5rem;
+    transition: border-color 0.3s ease;
+}
+
+.dropdown:focus {
+    border-color: #000;
+}
+
+#priceFilter {
+    flex: 1;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+#minPrice, #maxPrice {
+    flex: 1;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #DDD;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+#minPrice:focus, #maxPrice:focus {
+    border-color: #000;
+}
+
+#count {
+    color: #888;
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+#results {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Dynamically adjust based on screen width */
+    gap: 20px; /* Space between grid items */
+    width: 100%; /* Ensure the container occupies the full width */
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+
+#results div {
+    background-color: #FFF;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease;
+}
+
+#results div:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.1);
+}
+
+#results img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#results a {
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+    margin-bottom: 8px;
+    transition: color 0.3s ease;
+}
+
+#results p {
+    margin: 0;
+    text-align: center;
+    font-weight: 500;
+    color: #444;
+    margin-bottom: 2px;
+}
+
+#results d {
+    font-size: 12px !important;
+    color: #707070 !important;
+    font-weight: normal;
+}
+
+footer {
+    width: 100%;
+    padding: 40px 0;
+    background-color: #FFF;
+    box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.08);
+    text-align: center;
+    flex-shrink: 0; /* This ensures that the footer doesn't shrink smaller than its content */
+    font-size: 0.6em; /* Reducing the text size, adjust as needed */
+}
+
+footer a {
+    color: #666;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #000;
+}
+
+/* Media Queries for Responsive Design */
+
+@media (max-width: 768px) {
+    #search-and-filters {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .dropdown, #minPrice, #maxPrice {
+        width: 100%;
+    }
+
+    #search {
+        width: 100%;
+        margin-bottom: 20px;
+        height: 40px;
+    }
+
+    #search {
+        border: 1px solid #E0E0E0; 
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05); 
+        background-color: #FFFFFF; 
+    }
+
+    #search:focus {
+        border-color: #B0B0B0;
+        box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.08);
+    }
+
+    #filters {
+        gap: 15px;
+    }
+
+    #priceFilter {
+        gap: 15px;
+    }
+
+    #results {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+
+    header h1 {
+        font-size: 1.6em;
+    }
+
+    header h2 {
+        font-size: 1em;
+        margin-bottom: 16px;
+    }
+    #minPrice, #maxPrice {
+        width: 100%; 
+        padding: 8px; 
+        margin: 0 auto; 
+    }
+    #search, #filters, #tagFilters, #priceFilter, #sortOptions {
+        width: 100%;
+        text-align: center; 
+    }
+}
+
+@media (max-width: 480px) {
+    main {
+        width: 95%;
+    }
+
+    header h1 {
+        font-size: 1.4em;
+    }
+
+    header h2 {
+        font-size: 0.9em;
+        margin-bottom: 14px;
+    }
+}
+
+/* Add some subtle hover animations for interactive elements */
+input[type="text"]:hover,
+.dropdown:hover,
+#minPrice:hover, 
+#maxPrice:hover {
+    border-color: #888888;
+}
+
+/* Ensure dropdown arrows show on Firefox */
+@-moz-document url-prefix() {
+    .dropdown {
+        background-image: url('data:image/svg+xml;utf8,<svg fill="%23333" viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5H7z"/></svg>');
+    }
+}
+
+
