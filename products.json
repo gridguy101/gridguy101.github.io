@@ -117,7 +117,7 @@
         "title": "Nike Socks",
         "image": "images/NikeSocks.jpg",
         "price": 0.58,
-        "link": "https://pandabuy.allapp.link/ckkkt6nm8ngom0fkra40",
+        "link": "https://pandabuy.allapp.link/ckrejl90b4mkak8lke70",
         "description": "*20 Colors.* A bit thin but for the price so worth it.",
         "tags": {
           "type": ["Socks"],
@@ -962,6 +962,42 @@
         "tags": {
           "type": ["Accessories"],
           "brand": ["Louis Vuitton"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Argentina 2022 World Cup Jersey/Kit",
+        "image": "images/Argentina.jpg",
+        "price": 14.14,
+        "link": "https://pandabuy.allapp.link/ckrtnsfm8ngtsr1ap34g",
+        "description": "*ANY NAME/NUMBER*. Great quality, VAMOOOS",
+        "tags": {
+          "type": ["Shirts", "Jerseys/Kits"],
+          "brand": []
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Gucci Backpack",
+        "image": "images/GucciBackpack.jpg",
+        "price": 78.75,
+        "link": "https://pandabuy.allapp.link/ckrtpfogpf6ir7niflgg",
+        "description": "It's a backpack idk, very good quality/reviews",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Gucci"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Broken Planet Beanie",
+        "image": "images/PlanetBeanie.jpg",
+        "price": 8.78,
+        "link": "https://pandabuy.allapp.link/ckrtpfogpf6ir7niflgg",
+        "description": "It's a backpack idk, very good quality/reviews",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["Gucci"]
         },
         "bestOf": false
       }
