@@ -60,7 +60,11 @@ fetch('products.json')
             // Filter by search term
             const searchTerm = document.getElementById('search').value.toLowerCase();
             if (searchTerm) {
-                filteredProducts = filteredProducts.filter(product => product.title.toLowerCase().includes(searchTerm));
+                const tokens = searchTerm.replace(/[^\w\s]/g, '').split(' ');
+                filteredProducts = filteredProducts.filter(product => {
+                    const productTitle = product.title.toLowerCase().replace(/[^\w\s]/g, '');
+                    return tokens.every(token => productTitle.includes(token));
+                });
             }
 
             // Filter by tags
