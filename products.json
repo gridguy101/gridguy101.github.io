@@ -405,7 +405,7 @@
         "title": "Arc'teryx Alpha SV Jacket",
         "image": "images/AlphaSV.jpeg",
         "price": 62.50,
-        "link": "https://pandabuy.allapp.link/cknjor1rogtl5hi2qt40",
+        "link": "https://pandabuy.allapp.link/cl3hduggpf6nf012nma0",
         "description": " *5 Colors*.",
         "tags": {
           "type": ["Outerwear"],
@@ -417,7 +417,7 @@
         "title": "Arc'teryx Beta LT Jacket",
         "image": "images/BetaLT.jpeg",
         "price": 56.55,
-        "link": "https://pandabuy.allapp.link/cknjsq10b4mvau7phdsg",
+        "link": "https://pandabuy.allapp.link/cl3hduggpf6nf012nma0",
         "description": " *5 Colors*.",
         "tags": {
           "type": ["Outerwear"],
@@ -996,7 +996,7 @@
         "link": "https://pandabuy.allapp.link/ckrtpfogpf6ir7niflgg",
         "description": "It's a backpack idk, very good quality/reviews",
         "tags": {
-          "type": ["Accessories"],
+          "type": ["Hat"],
           "brand": ["Gucci"]
         },
         "bestOf": false
@@ -1158,18 +1158,6 @@
         "bestOf": false
       },
       {
-        "title": "Supreme BB Belt",
-        "image": "images/SupBB.jpg",
-        "price": 25.70,
-        "link": "https://pandabuy.allapp.link/cl0kej8gpf6nf012dpj0",
-        "description": "*3 Styles*, Pretty good, HMU if you find better batch.",
-        "tags": {
-          "type": ["Accessories"],
-          "brand": ["Supreme", "BB Simon"]
-        },
-        "bestOf": false
-      },
-      {
         "title": "Nike SB Dunk (PK Batch)",
         "image": "images/DunkPK.jpg",
         "price": 38.69,
@@ -1216,9 +1204,103 @@
           "brand": ["Supreme"]
         },
         "bestOf": false
+      },
+      {
+        "title": "Essentials Shorts",
+        "image": "images/essentialshorts.jpg",
+        "price": 7.43,
+        "link": "https://pandabuy.allapp.link/cl1rh70gpf6nf012htl0",
+        "description": "*14 Styles*, thousands of purchases, amazing.",
+        "tags": {
+          "type": ["Pants"],
+          "brand": ["Fear of God"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Yeezy 700 (A1-Top Batch)",
+        "image": "images/Yeezy700.jpeg",
+        "price": 56.55,
+        "link": "https://pandabuy.allapp.link/cl3hpu1rogtktc4355v0",
+        "description": "*26 Styles*, best batch.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Yeezy", "Adidas"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Birkenstock Bostons",
+        "image": "images/Birks.webp",
+        "price": 27.08,
+        "link": "https://pandabuy.allapp.link/cl3hrlprogtktc43562g",
+        "description": "*8 Styles*, Make sure you protect, can get smushed in shipping.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Birkenstock"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "MSCHF Big Red Boots",
+        "image": "images/RedBoots.webp",
+        "price": 44.35,
+        "link": "https://pandabuy.allapp.link/cl3i188gpf6nf012nmtg",
+        "description": "*2 Colors*, Do what you will with this lmao",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["MSCHF"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Bapesta (Best Batch)",
+        "image": "images/Bapesta.jpg",
+        "price": 42.86,
+        "link": "https://pandabuy.allapp.link/cl3i7o9rogtktc4356bg",
+        "description": "*31 Styles*, 1:1 shoes don't exist but this is damn close.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Bape"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "New Balance 2002r",
+        "image": "images/NB2002.jpeg",
+        "price": 23.66,
+        "link": "https://pandabuy.allapp.link/cl3i8vogpf6nf012nn50",
+        "description": "*7 Styles*, sooo fire, don't know how they r so cheap.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["New Balance"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "New Balance 990s",
+        "image": "images/NB990.jpeg",
+        "price": 37.20,
+        "link": "https://pandabuy.allapp.link/cl3i9shrogtktc4356cg",
+        "description": "*16 Styles*, Has v2, v4, and v5",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["New Balance"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Adidas Ultraboost",
+        "image": "images/Ultraboost.webp",
+        "price": 18.30,
+        "link": "https://pandabuy.allapp.link/cl3ibqnm8ngo604cj8ug",
+        "description": "*20 Styles* 8000 monthly sales, amazing.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Adidas"]
+        },
+        "bestOf": false
       }
-
-
 
 
 ]
