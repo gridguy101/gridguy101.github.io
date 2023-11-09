@@ -1014,18 +1014,6 @@
         "bestOf": false
       },
       {
-        "title": "Supreme x North Face Jacket",
-        "image": "images/SupremeNF.jpg",
-        "price": 23.77,
-        "link": "https://pandabuy.allapp.link/ckvra3ogpf6nf012ar50",
-        "description": "Very good value, fits well and comfy",
-        "tags": {
-          "type": ["Outerwear"],
-          "brand": ["Supreme", "The North Face"]
-        },
-        "bestOf": false
-      },
-      {
         "title": "Supreme Tire Pump",
         "image": "images/SupremePump.jpg",
         "price": 1.19,
@@ -1298,6 +1286,78 @@
         "tags": {
           "type": ["Shoes"],
           "brand": ["Adidas"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Designer Converse (Comme De Garcons, Rick Owens, etc.)",
+        "image": "images/Coverse.jpeg",
+        "price": 20.83,
+        "link": "https://pandabuy.allapp.link/cl3iet0gpf6nf012nn7g",
+        "description": "*32 Styles* Every designer coverse ever.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["Coverse", "Rick Owens", "Comme De Garcons"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Crease Protectors",
+        "image": "images/Crease.webp",
+        "price": 0.73,
+        "link": "https://pandabuy.allapp.link/cl3ijt1rogtktc4356k0",
+        "description": "3 Colors*. A must add to the haul.",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": []
+        },
+        "bestOf": false
+      },
+      {
+        "title": "New Balance 550s",
+        "image": "images/NB550.jpg",
+        "price": 31.14,
+        "link": "https://pandabuy.allapp.link/cl4igmfm8ngo604cm9p0",
+        "description": "32 Styles*. Amazing quality.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": ["New Balance"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Travis Scott Socks",
+        "image": "images/TravSocks.jpg",
+        "price": 1.60,
+        "link": "https://pandabuy.allapp.link/cl4iidvm8ngo604cm9tg",
+        "description": "56 Styles*. Goes up to size 10 for shoe size probably.",
+        "tags": {
+          "type": ["Shoes"],
+          "brand": []
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Polar Big Boy Jeans",
+        "image": "images/Polars.webp",
+        "price": 18.86,
+        "link": "https://pandabuy.allapp.link/cl4ilcprogtktc4386eg",
+        "description": "16 Styles*. They are big already! Don't size up",
+        "tags": {
+          "type": ["Pants"],
+          "brand": ["Polar"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Supreme, Stussy, Murakami, Kaws, Nike, & more Stickers",
+        "image": "images/SupremeStickers.jpg",
+        "price": 0.82,
+        "link": "https://pandabuy.allapp.link/cl4ilcprogtktc4386eg",
+        "description": "8 Styles*. COMES IN PACKS! Great value.",
+        "tags": {
+          "type": ["Pants"],
+          "brand": ["Supreme", "Takashi Murakami", "Stussy", "Kaws", "Nike"]
         },
         "bestOf": false
       }
