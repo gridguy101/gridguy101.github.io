@@ -1291,7 +1291,7 @@
       },
       {
         "title": "Designer Converse (Comme De Garcons, Rick Owens, etc.)",
-        "image": "images/Coverse.jpeg",
+        "image": "images/Converse.jpeg",
         "price": 20.83,
         "link": "https://pandabuy.allapp.link/cl3iet0gpf6nf012nn7g",
         "description": "*32 Styles* Every designer coverse ever.",
@@ -1360,7 +1360,56 @@
           "brand": ["Supreme", "Takashi Murakami", "Stussy", "Kaws", "Nike"]
         },
         "bestOf": false
+      },
+      {
+        "title": "Eric Emanuel Athletic Shorts",
+        "image": "images/EEShorts.jpg",
+        "price": 2.23,
+        "link": "https://pandabuy.allapp.link/cl6gnm9rogtktc43esf0",
+        "description": "19 Styles*. Very, very good for the price.",
+        "tags": {
+          "type": ["Pants"],
+          "brand": ["Supreme", "Takashi Murakami", "Stussy", "Kaws", "Nike"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "The North Face Gloves",
+        "image": "images/TNFGloves.jpg",
+        "price": 3.42,
+        "link": "https://pandabuy.allapp.link/cl6i02nm8ngo604ct97g",
+        "description": "30 Styles*. GREAT quality but logo is a tiny bit off.",
+        "tags": {
+          "type": ["Accessories"],
+          "brand": ["The North Face"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Nike Sweatpants",
+        "image": "images/NikeSweats.jpg",
+        "price": 11.21,
+        "link": "https://pandabuy.allapp.link/cl6i1bggpf6nf0131lm0",
+        "description": "2 Colors*. Super Comfy, real thermal material, size up tho.",
+        "tags": {
+          "type": ["Pants"],
+          "brand": ["Nike"]
+        },
+        "bestOf": false
+      },
+      {
+        "title": "Chrome Hearts Onyx Bead Bracelet",
+        "image": "images/NikeSweats.jpg",
+        "price": 11.21,
+        "link": "https://pandabuy.allapp.link/cl6i1bggpf6nf0131lm0",
+        "description": "2 Colors*. Super Comfy, real thermal material, size up tho.",
+        "tags": {
+          "type": ["Pants"],
+          "brand": ["Nike"]
+        },
+        "bestOf": false
       }
+
 
 
 ]
