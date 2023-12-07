@@ -1086,19 +1086,7 @@
         "bestOf": false
       },
       {
-        "title": "Supreme Underwear",
-        "image": "images/SupremeBackpack.jpeg",
-        "price": 23.51,
-        "link": "https://pandabuy.allapp.link/cl0j1o8gpf6nf012dj40",
-        "description": "No majors flaws",
-        "tags": {
-          "type": ["Accessories"],
-          "brand": ["Supreme"]
-        },
-        "bestOf": false
-      },
-      {
-        "title": "Supreme Underwear",
+        "title": "Supreme Backpack",
         "image": "images/SupremeBackpack.jpeg",
         "price": 23.51,
         "link": "https://pandabuy.allapp.link/cl0j1o8gpf6nf012dj40",
@@ -1306,7 +1294,7 @@
         "image": "images/Crease.webp",
         "price": 0.73,
         "link": "https://pandabuy.allapp.link/cl3ijt1rogtktc4356k0",
-        "description": "3 Colors*. A must add to the haul.",
+        "description": "*3 Colors*. A must add to the haul.",
         "tags": {
           "type": ["Accessories"],
           "brand": []
@@ -1318,7 +1306,7 @@
         "image": "images/NB550.jpg",
         "price": 31.14,
         "link": "https://pandabuy.allapp.link/cl4igmfm8ngo604cm9p0",
-        "description": "32 Styles*. Amazing quality.",
+        "description": "*32 Styles*. Amazing quality.",
         "tags": {
           "type": ["Shoes"],
           "brand": ["New Balance"]
@@ -1330,7 +1318,7 @@
         "image": "images/TravSocks.jpg",
         "price": 1.60,
         "link": "https://pandabuy.allapp.link/cl4iidvm8ngo604cm9tg",
-        "description": "56 Styles*. Goes up to size 10 for shoe size probably.",
+        "description": "*56 Styles*. Goes up to size 10 for shoe size probably.",
         "tags": {
           "type": ["Shoes"],
           "brand": []
@@ -1342,7 +1330,7 @@
         "image": "images/Polars.webp",
         "price": 18.86,
         "link": "https://pandabuy.allapp.link/cl4ilcprogtktc4386eg",
-        "description": "16 Styles*. They are big already! Don't size up",
+        "description": "*16 Styles*. They are big already! Don't size up",
         "tags": {
           "type": ["Pants"],
           "brand": ["Polar"]
@@ -1354,7 +1342,7 @@
         "image": "images/SupremeStickers.jpg",
         "price": 0.82,
         "link": "https://pandabuy.allapp.link/cl4ilcprogtktc4386eg",
-        "description": "8 Styles*. COMES IN PACKS! Great value.",
+        "description": "*8 Styles*. COMES IN PACKS! Great value.",
         "tags": {
           "type": ["Pants"],
           "brand": ["Supreme", "Takashi Murakami", "Stussy", "Kaws", "Nike"]
@@ -1366,10 +1354,10 @@
         "image": "images/EEShorts.jpg",
         "price": 2.23,
         "link": "https://pandabuy.allapp.link/cl6gnm9rogtktc43esf0",
-        "description": "19 Styles*. Very, very good for the price.",
+        "description": "*19 Styles*. Very, very good for the price.",
         "tags": {
           "type": ["Pants"],
-          "brand": ["Supreme", "Takashi Murakami", "Stussy", "Kaws", "Nike"]
+          "brand": ["Eric Emanuel"]
         },
         "bestOf": false
       },
@@ -1378,7 +1366,7 @@
         "image": "images/TNFGloves.jpg",
         "price": 3.42,
         "link": "https://pandabuy.allapp.link/cl6i02nm8ngo604ct97g",
-        "description": "30 Styles*. GREAT quality but logo is a tiny bit off.",
+        "description": "*30 Styles*. GREAT quality but logo is a tiny bit off.",
         "tags": {
           "type": ["Accessories"],
           "brand": ["The North Face"]
@@ -1390,19 +1378,7 @@
         "image": "images/NikeSweats.jpg",
         "price": 11.21,
         "link": "https://pandabuy.allapp.link/cl6i1bggpf6nf0131lm0",
-        "description": "2 Colors*. Super Comfy, real thermal material, size up tho.",
-        "tags": {
-          "type": ["Pants"],
-          "brand": ["Nike"]
-        },
-        "bestOf": false
-      },
-      {
-        "title": "Chrome Hearts Onyx Bead Bracelet",
-        "image": "images/NikeSweats.jpg",
-        "price": 11.21,
-        "link": "https://pandabuy.allapp.link/cl6i1bggpf6nf0131lm0",
-        "description": "2 Colors*. Super Comfy, real thermal material, size up tho.",
+        "description": "*2 Colors*. Super Comfy, real thermal material, size up tho.",
         "tags": {
           "type": ["Pants"],
           "brand": ["Nike"]
